@@ -1,0 +1,18 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Blog 1",
+      "author": "John Doe",
+      "url": "https://example.com/blog1",
+      "likes": 11
+    },
+    {
+      "id": "2",
+      "title": "Blog 2",
+      "author": "Jane Doe",
+      "url": "https://example.com/blog2",
+      "likes": 6
+    }
+  ]
+}
